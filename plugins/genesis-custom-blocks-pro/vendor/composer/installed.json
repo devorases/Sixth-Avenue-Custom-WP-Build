@@ -1,0 +1,19 @@
+{
+    "packages": [
+        {
+            "name": "studiopress/genesis-custom-blocks",
+            "version": "trunk",
+            "version_normalized": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/genesis-custom-blocks/",
+                "reference": "trunk"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "install-path": "../studiopress/genesis-custom-blocks"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
